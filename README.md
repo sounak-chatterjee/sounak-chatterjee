@@ -61,7 +61,7 @@ To systematically build towards high-performance scientific computing and biophy
 
 Focusing on procedural C programming, low-level data structures, command-line physics engines, multivariable calculus, and linear algebra.
 
-### Phase 2: Scientific Computing & Bio-Data Analysis (In Progress)
+### Phase 2: Scientific Computing & Bio-Data Analysis (Upcoming)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
@@ -100,7 +100,7 @@ My technical trajectory and biophysical modeling workflows are structured to ali
 
 ## Contact & Collaboration
 
-I am highly receptive to academic collaborations, research internships, and open-source contributions in computationa & structural biology and machine learning.
+I am highly receptive to academic collaborations, research internships, and open-source contributions in computational & structural biology and machine learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sounak-chatterjee-21a717343)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csounak02@gmail.com)
