@@ -32,7 +32,10 @@ My long-term objectives are focused on building robust computational architectur
 
 ##  Technical Toolset & Competencies
 
-###  Mathematics & Computation
+###  Mathematics & Theoretical Foundations
+* **Core Domains:** Linear Algebra, Multivariable Calculus, Statistical Mechanics, Chemical Thermodynamics, and Discrete Mathematics.
+
+### Core Languages & Developer Workflows
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,12 +43,20 @@ My long-term objectives are focused on building robust computational architectur
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-* **Mathematical Foundations:** Linear Algebra, Calculus, Statistical Mechanics, and Discrete Mathematics.
-* **Programming & Scripting:** Python, C, C++, R, Bash.
-* **Developer Workflows:** Version Control (Git/GitHub), Linux environments.
+* **Developer Tools:** Linux Terminal, Bash Shell Scripting, Git Version Control, and GitHub Workflows.
+
+###  Scientific Computing & Bio-Data Stack
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 ###  Biophysical & Chemical Systems
 * **Domain Knowledge:** Structural Biology, Bioprocess Engineering, Computational Modeling, Quantum Mechanics fundamentals.
+
 
 ---
 
@@ -67,7 +78,7 @@ My long-term objectives are focused on building robust computational architectur
 
 ## Contact & Collaboration
 
-I am highly receptive to academic collaborations, research internships, and open-source contributions in computational biophysics and machine learning.
+I am highly receptive to academic collaborations, research internships, and open-source contributions in computational & structural biology and machine learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sounak-chatterjee-21a717343)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csounak02@gmail.com)
