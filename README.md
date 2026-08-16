@@ -2,8 +2,8 @@
 
 # Hi there, I'm Sounak
 
-### **Computational Biology Trainee .     Pursuing B.Tech Biotechnology**
-*Specializing in the intersection of Machine Learning, Quantum Biology,Biophysical Modeling and Astrobiology.*
+### **Computational Biology Trainee . Pursuing B.Tech Biotechnology**
+*Specializing in the intersection of Machine Learning, Quantum Biology, Astrobiology and Biophysical Modeling.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sounak-chatterjee-21a717343)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csounak02@gmail.com)
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 I view biological systems as complex information networks governed by physical laws, chemical thermodynamics, and computational logic. My research interests lie at the convergence of statistical mechanics, quantum information theory, and machine learning to model complex biological phenomena. 
 
@@ -21,64 +21,86 @@ My long-term objectives are focused on building robust computational architectur
 
 ---
 
-##  Focus Areas & Research Interests
+## Focus Areas & Research Interests
 
--  **Computational & Structural Biology:** Modeling macromolecules, structural dynamics, and metabolic networks.
-- 🤖 **Machine Learning in Life Sciences:** Applying deep learning architectures to sequence analysis, protein folding, and evolutionary dynamics.
--  **Quantum Biology & Astrobiology:** Investigating quantum coherent phenomena in biological systems (e.g., photosynthesis, magnetoreception) and the computational modeling of prebiotic chemistry.
--  **Bioprocess Control & Engineering:** Integrating mathematical modeling, differential equations, and computational fluid dynamics for biological system design.
+- **Computational & Structural Biology:** Modeling macromolecules, structural dynamics, and metabolic networks.
+- **Machine Learning in Life Sciences:** Applying deep learning architectures to sequence analysis, protein folding, and evolutionary dynamics.
+- **Quantum Biology & Astrobiology:** Investigating quantum coherent phenomena in biological systems (e.g., photosynthesis, magnetoreception) and the computational modeling of prebiotic chemistry.
+- **Bioprocess Control & Engineering:** Integrating mathematical modeling, differential equations, and computational fluid dynamics for biological system design.
 
 ---
 
-##  Technical Toolset & Competencies
+## Technical Toolset & Competencies
 
-###  Mathematics & Theoretical Foundations
+### Mathematics & Theoretical Foundations
 * **Core Domains:** Linear Algebra, Multivariable Calculus, Statistical Mechanics, Chemical Thermodynamics, and Discrete Mathematics.
 
-### Core Languages & Developer Workflows
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Active Tech Stack & Engineering Workflows
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-* **Developer Tools:** Linux Terminal, Bash Shell Scripting, Git Version Control, and GitHub Workflows.
+* **Programming & Systems:** C (low-level physics engines, memory management, pointers), C++ fundamentals, Python scripting.
+* **Developer Environment:** Linux command-line workflows, Bash scripting, Git version control, GitHub.
 
-###  Scientific Computing & Bio-Data Stack
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-
-###  Biophysical & Chemical Systems
+### Biophysical & Chemical Systems
 * **Domain Knowledge:** Structural Biology, Bioprocess Engineering, Computational Modeling, Quantum Mechanics fundamentals.
 
+---
+
+## Technical Growth & Learning Pipeline
+
+To systematically build towards high-performance scientific computing and biophysical modeling, my ongoing technical expansion is organized across active developmental phases:
+
+### Phase 1: Core Systems & Algorithmic Foundations (Active)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+Focusing on procedural C programming, low-level data structures, command-line physics engines, multivariable calculus, and linear algebra.
+
+### Phase 2: Scientific Computing & Bio-Data Analysis (In Progress)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![scikit-bio](https://img.shields.io/badge/scikit--bio-00599C?style=flat-square&logo=python&logoColor=white)
+![RDKit](https://img.shields.io/badge/RDKit-02729C?style=flat-square&logo=python&logoColor=white)
+![Astropy](https://img.shields.io/badge/Astropy-112233?style=flat-square&logo=python&logoColor=white)
+
+Transitioning mathematical algorithms to scientific Python libraries for numerical matrix operations, biological sequence manipulation, differential equation solving, and data visualization.
+
+### Phase 3: Structural AI & Biomolecular Simulation (Target Frameworks)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyMOL](https://img.shields.io/badge/PyMOL-00599C?style=flat-square&logo=python&logoColor=white)
+![AlphaFold](https://img.shields.io/badge/AlphaFold-4285F4?style=flat-square&logo=google&logoColor=white)
+
+Applying deep learning architectures to structural biochemistry, statistical learning theory, biomolecular dynamics, and high-performance simulations.
 
 ---
 
-##  Current Academic Objectives
 
-- **Algorithmic Foundations:** Deepening expertise in linear algebra, multivariable calculus, and numerical methods for scientific computing.
-- **Deep Learning Frameworks:** Mastering neural network optimization, statistical learning theory, and their applications to structural biochemistry.
-- **Biophysical Simulation:** Exploring computational modeling approaches for biological systems at both the subatomic (quantum) and systems-level scales.
 
 ---
 
+## Target Research Benchmarks & Scientific Alignment
 
+My technical trajectory and biophysical modeling workflows are structured to align with paradigms established by leading computational biology institutes and AI research labs:
 
-</div>
-
----
+* **Protein Folding & Structural AI:** Tracking deep learning architectures inspired by **Google DeepMind (AlphaFold)** and **Meta AI (ESMFold)** for biomolecular structure prediction.
+* **Structural Bioinformatics & Omics Data:** Studying database methodologies and computational tools developed by the **European Molecular Biology Laboratory (EMBL-EBI)**.
+* **Biophysical & Quantum Simulations:** Following cutting-edge methodologies from premier research groups at **Harvard Medical School (Department of Systems Biology)** and **Stanford Department of Bioengineering**.
 
 ---
 
 ## Contact & Collaboration
 
-I am highly receptive to academic collaborations, research internships, and open-source contributions in computational & structural biology and machine learning.
+I am highly receptive to academic collaborations, research internships, and open-source contributions in computationa & structural biology and machine learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sounak-chatterjee-21a717343)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csounak02@gmail.com)
