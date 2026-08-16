@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sounak
 
-### **Computational Biology Trainee     Pursuing B.Tech Biotechnology**
+### **Computational Biology Trainee |     Pursuing B.Tech Biotechnology**
 *Specializing in the intersection of Machine Learning, Quantum Biology,Biophysical Modeling and Astrobiology.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sounak-chatterjee-21a717343)
