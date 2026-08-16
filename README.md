@@ -87,6 +87,12 @@ Transitioning mathematical algorithms to scientific Python libraries for numeric
 ![JAX](https://img.shields.io/badge/JAX-008080?style=flat-square&logo=google&logoColor=white)
 ![VMD](https://img.shields.io/badge/VMD-1B365D?style=flat-square&logo=python&logoColor=white)
 ![petitRADTRANS](https://img.shields.io/badge/petitRADTRANS-4A2E80?style=flat-square&logo=python&logoColor=white)
+![Quantum ESPRESSO](https://img.shields.io/badge/Quantum_ESPRESSO-004B87?style=flat-square&logo=fortran&logoColor=white)
+![ORCA](https://img.shields.io/badge/ORCA-4A2E80?style=flat-square&logo=cplusplus&logoColor=white)
+![MDAnalysis](https://img.shields.io/badge/MDAnalysis-00599C?style=flat-square&logo=python&logoColor=white)
+![ESMFold](https://img.shields.io/badge/ESMFold--ESM2-0467DF?style=flat-square&logo=meta&logoColor=white)
+![RoseTTAFold](https://img.shields.io/badge/RoseTTAFold-1B365D?style=flat-square&logo=python&logoColor=white)
+![PyRosetta](https://img.shields.io/badge/PyRosetta-2C3E50?style=flat-square&logo=python&logoColor=white)
 
 Applying deep learning architectures to structural biochemistry, statistical learning theory, biomolecular dynamics, and high performance simulations. Targeting molecular dynamics simulation of enzyme active sites, quantum tunneling probability modeling, protein language model fine-tuning, and exoplanet atmospheric biosignature pipeline development using petitRADTRANS.
 
