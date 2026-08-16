@@ -72,6 +72,7 @@ Focusing on procedural C programming, low-level data structures, command-line ph
 ![scikit-bio](https://img.shields.io/badge/scikit--bio-00599C?style=flat-square&logo=python&logoColor=white)
 ![RDKit](https://img.shields.io/badge/RDKit-02729C?style=flat-square&logo=python&logoColor=white)
 ![Astropy](https://img.shields.io/badge/Astropy-112233?style=flat-square&logo=python&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-127A84?style=flat-square&logo=r&logoColor=white)
 
 Transitioning mathematical algorithms to scientific Python libraries for numerical matrix operations, biological sequence manipulation, differential equation solving, and data visualization.
 
@@ -79,6 +80,13 @@ Transitioning mathematical algorithms to scientific Python libraries for numeric
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PyMOL](https://img.shields.io/badge/PyMOL-00599C?style=flat-square&logo=python&logoColor=white)
 ![AlphaFold](https://img.shields.io/badge/AlphaFold-4285F4?style=flat-square&logo=google&logoColor=white)
+![GROMACS](https://img.shields.io/badge/GROMACS-002B49?style=flat-square&logo=c&logoColor=white)
+![AMBER](https://img.shields.io/badge/AMBER-D9534F?style=flat-square&logo=cplusplus&logoColor=white)
+![APBS](https://img.shields.io/badge/APBS-2C3E50?style=flat-square&logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-008080?style=flat-square&logo=google&logoColor=white)
+![VMD](https://img.shields.io/badge/VMD-1B365D?style=flat-square&logo=python&logoColor=white)
+![BLAST](https://img.shields.io/badge/BLAST--DIAMOND-004B87?style=flat-square&logo=python&logoColor=white)
+![petitRADTRANS](https://img.shields.io/badge/petitRADTRANS-4A2E80?style=flat-square&logo=python&logoColor=white)
 
 Applying deep learning architectures to structural biochemistry, statistical learning theory, biomolecular dynamics, and high-performance simulations.
 
